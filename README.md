@@ -1,15 +1,8 @@
 # e-commerce-vue3
 This e-commerce Arabic RTL template should help get you started developing with Vue 3 & bootstrap 5 in Vite.
 
-![Alt text](/../main/src/assets/aap.png?raw=true "e-commerce-vue3")
+![alt text](https://github.com/iFmrDev/e-commerce-vue3/blob/main/src/assets/app.png?raw=true)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
