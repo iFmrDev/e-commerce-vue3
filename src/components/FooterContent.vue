@@ -17,7 +17,7 @@
                 <h5 class="h6 text-center">مرحباً بكم في معسكر طويق في كورس تطبيقات واجهة الويب</h5>                
             </div>
             <div class="d-flex flex-column">
-                <h5 class="w-100 h6 text-center text-muted bold">Developed by : fmsrgh@gmail.com <i class="fas fa-envelope"></i></h5>
+                <h5 class="w-100 h6 text-center text-muted bold">Developed by : ifmr4dev@gmail.com <i class="fas fa-envelope"></i></h5>
             </div>
         </div>
     </div>
